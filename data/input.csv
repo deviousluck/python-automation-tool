@@ -1,0 +1,7 @@
+name, age, city
+Alice, 30, New York
+Bob, 25, Los Angeles
+Charlie, , Chicago
+   David  , 40,   San Francisco  
+Eve, not_a_number, Seattle
+, 20, No Name City
